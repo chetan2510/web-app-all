@@ -6,7 +6,7 @@ class Status extends Component {
     state = {
         "o2a_variables": {
 
-            "XFRAStatus": "down",
+            "XFRAStatus": "Online",
             "T7Status": "Online",
             "GmcVersion": "081.390.000",
             "bunny_XFRA": "081.003.090",
